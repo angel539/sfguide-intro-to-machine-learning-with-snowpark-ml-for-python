@@ -1,8 +1,8 @@
 {
   "account"            : "ye08176.west-europe.azure",
   "user"               : "ANGELMORA539",
-  "password"           : "",
-  "role"               : "SYSADMIN",
+  "password"           : "5396524Condes",
+  "role"               : "ACCOUNTADMIN",
   "warehouse"          : "ML_HOL_WH",
   "database"           : "ML_HOL_DB",
   "schema"             : "ML_HOL_SCHEMA"
