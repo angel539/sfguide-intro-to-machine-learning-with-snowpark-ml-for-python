@@ -1,4 +1,4 @@
-name: snowpark-ml-hol
+name: snowpark-ml-loom
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
 dependencies:
